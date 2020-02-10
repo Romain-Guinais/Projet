@@ -1,4 +1,4 @@
 Projet
 dependance:
-- libA - 2
+- libA - 3
 - libB - 2
